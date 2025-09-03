@@ -1,0 +1,552 @@
+[
+    {
+        "question": "ما عاصمة مصر؟",
+        "options": [
+            "القاهرة",
+            "الإسكندرية",
+            "الجيزة",
+            "الأقصر"
+        ],
+        "correct": 0,
+        "subject": "عربي"
+    },
+    {
+        "question": "من هو مؤلف رواية الحرب والسلام؟",
+        "options": [
+            "تولستوي",
+            "دوستويفسكي",
+            "شكسبير",
+            "نجيب محفوظ"
+        ],
+        "correct": 0,
+        "subject": "عربي"
+    },
+    {
+        "question": "مرادف كلمة سريع",
+        "options": [
+            "بطيء",
+            "خاطف",
+            "قوي",
+            "ضعيف"
+        ],
+        "correct": 1,
+        "subject": "عربي"
+    },
+    {
+        "question": "جمع كلمة كتاب",
+        "options": [
+            "كتب",
+            "كتابات",
+            "كتبة",
+            "كتبون"
+        ],
+        "correct": 0,
+        "subject": "عربي"
+    },
+    {
+        "question": "أضداد كلمة كبير",
+        "options": [
+            "ضخم",
+            "صغير",
+            "كبير",
+            "عريض"
+        ],
+        "correct": 1,
+        "subject": "عربي"
+    },
+    {
+        "question": "من كاتب رواية الثلاثية؟",
+        "options": [
+            "طه حسين",
+            "نجيب محفوظ",
+            "توفيق الحكيم",
+            "العقاد"
+        ],
+        "correct": 1,
+        "subject": "عربي"
+    },
+    {
+        "question": "معنى كلمة وفير",
+        "options": [
+            "قليل",
+            "كثير",
+            "متوسط",
+            "نادر"
+        ],
+        "correct": 1,
+        "subject": "عربي"
+    },
+    {
+        "question": "مرادف كلمة حزن",
+        "options": [
+            "فرح",
+            "أسى",
+            "سرور",
+            "نشاط"
+        ],
+        "correct": 1,
+        "subject": "عربي"
+    },
+    {
+        "question": "عاصمة الشعر العربي",
+        "options": [
+            "بيروت",
+            "دمشق",
+            "بغداد",
+            "القاهرة"
+        ],
+        "correct": 2,
+        "subject": "عربي"
+    },
+    {
+        "question": "من هو أمير الشعراء؟",
+        "options": [
+            "أحمد شوقي",
+            "حافظ إبراهيم",
+            "محمود درويش",
+            "فاروق جويدة"
+        ],
+        "correct": 0,
+        "subject": "عربي"
+    },
+    {
+        "question": "What is the capital of England?",
+        "options": [
+            "London",
+            "Paris",
+            "Rome",
+            "Berlin"
+        ],
+        "correct": 0,
+        "subject": "English"
+    },
+    {
+        "question": "Which is a verb?",
+        "options": [
+            "Run",
+            "Car",
+            "House",
+            "Chair"
+        ],
+        "correct": 0,
+        "subject": "English"
+    },
+    {
+        "question": "Synonym of happy?",
+        "options": [
+            "Sad",
+            "Glad",
+            "Angry",
+            "Mad"
+        ],
+        "correct": 1,
+        "subject": "English"
+    },
+    {
+        "question": "Opposite of big?",
+        "options": [
+            "Small",
+            "Large",
+            "Huge",
+            "Tall"
+        ],
+        "correct": 0,
+        "subject": "English"
+    },
+    {
+        "question": "What is plural of child?",
+        "options": [
+            "Childs",
+            "Children",
+            "Childes",
+            "Childer"
+        ],
+        "correct": 1,
+        "subject": "English"
+    },
+    {
+        "question": "Complete: She ____ to school every day.",
+        "options": [
+            "go",
+            "goes",
+            "going",
+            "gone"
+        ],
+        "correct": 1,
+        "subject": "English"
+    },
+    {
+        "question": "Past tense of eat?",
+        "options": [
+            "Eat",
+            "Eated",
+            "Ate",
+            "Eating"
+        ],
+        "correct": 2,
+        "subject": "English"
+    },
+    {
+        "question": "Which word is an adjective?",
+        "options": [
+            "Beautiful",
+            "Run",
+            "Quickly",
+            "Play"
+        ],
+        "correct": 0,
+        "subject": "English"
+    },
+    {
+        "question": "Translate: كتاب",
+        "options": [
+            "Book",
+            "Pen",
+            "Bag",
+            "Table"
+        ],
+        "correct": 0,
+        "subject": "English"
+    },
+    {
+        "question": "What is opposite of good?",
+        "options": [
+            "Bad",
+            "Better",
+            "Best",
+            "Worse"
+        ],
+        "correct": 0,
+        "subject": "English"
+    },
+    {
+        "question": "من الذي اكتشف أمريكا؟",
+        "options": [
+            "كريستوفر كولومبوس",
+            "ماجلان",
+            "ابن بطوطة",
+            "فاسكو دا جاما"
+        ],
+        "correct": 0,
+        "subject": "تاريخ"
+    },
+    {
+        "question": "في أي عام اندلعت الحرب العالمية الأولى؟",
+        "options": [
+            "1914",
+            "1918",
+            "1939",
+            "1945"
+        ],
+        "correct": 0,
+        "subject": "تاريخ"
+    },
+    {
+        "question": "متى قامت ثورة يوليو؟",
+        "options": [
+            "1950",
+            "1952",
+            "1967",
+            "1973"
+        ],
+        "correct": 1,
+        "subject": "تاريخ"
+    },
+    {
+        "question": "من هو صلاح الدين الأيوبي؟",
+        "options": [
+            "شاعر",
+            "قائد عسكري",
+            "فيلسوف",
+            "خليفة"
+        ],
+        "correct": 1,
+        "subject": "تاريخ"
+    },
+    {
+        "question": "ما الدولة التي حكمت مصر قبل محمد علي؟",
+        "options": [
+            "المماليك",
+            "العثمانيون",
+            "الفاطميون",
+            "الأيوبيون"
+        ],
+        "correct": 1,
+        "subject": "تاريخ"
+    },
+    {
+        "question": "أول رئيس لمصر بعد الثورة؟",
+        "options": [
+            "عبد الناصر",
+            "محمد نجيب",
+            "السادات",
+            "مبارك"
+        ],
+        "correct": 1,
+        "subject": "تاريخ"
+    },
+    {
+        "question": "من هو الخليفة العباسي الأول؟",
+        "options": [
+            "أبو جعفر المنصور",
+            "هارون الرشيد",
+            "أبو العباس السفاح",
+            "المأمون"
+        ],
+        "correct": 2,
+        "subject": "تاريخ"
+    },
+    {
+        "question": "ما اسم أول حضارة في التاريخ؟",
+        "options": [
+            "الفينيقية",
+            "المصرية القديمة",
+            "السومرية",
+            "اليونانية"
+        ],
+        "correct": 2,
+        "subject": "تاريخ"
+    },
+    {
+        "question": "أين وقعت حرب البسوس؟",
+        "options": [
+            "الجزيرة العربية",
+            "بلاد فارس",
+            "الشام",
+            "اليمن"
+        ],
+        "correct": 0,
+        "subject": "تاريخ"
+    },
+    {
+        "question": "ما المدينة التي فتحها طارق بن زياد؟",
+        "options": [
+            "غرناطة",
+            "قرطبة",
+            "طليطلة",
+            "طنجة"
+        ],
+        "correct": 1,
+        "subject": "تاريخ"
+    },
+    {
+        "question": "5 + 3 = ?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correct": 2,
+        "subject": "رياضيات"
+    },
+    {
+        "question": "12 ÷ 4 = ?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "correct": 1,
+        "subject": "رياضيات"
+    },
+    {
+        "question": "7 × 6 = ?",
+        "options": [
+            "42",
+            "36",
+            "48",
+            "56"
+        ],
+        "correct": 0,
+        "subject": "رياضيات"
+    },
+    {
+        "question": "9 - 5 = ?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct": 1,
+        "subject": "رياضيات"
+    },
+    {
+        "question": "10 + 15 = ?",
+        "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+        ],
+        "correct": 1,
+        "subject": "رياضيات"
+    },
+    {
+        "question": "√81 = ?",
+        "options": [
+            "9",
+            "8",
+            "7",
+            "6"
+        ],
+        "correct": 0,
+        "subject": "رياضيات"
+    },
+    {
+        "question": "15 ÷ 3 = ?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "3"
+        ],
+        "correct": 1,
+        "subject": "رياضيات"
+    },
+    {
+        "question": "20 × 2 = ?",
+        "options": [
+            "30",
+            "40",
+            "50",
+            "20"
+        ],
+        "correct": 1,
+        "subject": "رياضيات"
+    },
+    {
+        "question": "50% of 100?",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "correct": 1,
+        "subject": "رياضيات"
+    },
+    {
+        "question": "(5+5)×2 = ?",
+        "options": [
+            "20",
+            "15",
+            "10",
+            "12"
+        ],
+        "correct": 0,
+        "subject": "رياضيات"
+    },
+    {
+        "question": "What is H2O?",
+        "options": [
+            "Oxygen",
+            "Water",
+            "Hydrogen",
+            "Carbon"
+        ],
+        "correct": 1,
+        "subject": "Science"
+    },
+    {
+        "question": "Which planet is closest to the sun?",
+        "options": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars"
+        ],
+        "correct": 0,
+        "subject": "Science"
+    },
+    {
+        "question": "What gas do humans exhale?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "correct": 1,
+        "subject": "Science"
+    },
+    {
+        "question": "Speed of light is?",
+        "options": [
+            "300,000 km/s",
+            "150,000 km/s",
+            "100,000 km/s",
+            "200,000 km/s"
+        ],
+        "correct": 0,
+        "subject": "Science"
+    },
+    {
+        "question": "What is the human body's largest organ?",
+        "options": [
+            "Heart",
+            "Skin",
+            "Liver",
+            "Brain"
+        ],
+        "correct": 1,
+        "subject": "Science"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "Au",
+            "Ag",
+            "Gd",
+            "Go"
+        ],
+        "correct": 0,
+        "subject": "Science"
+    },
+    {
+        "question": "What force pulls objects toward Earth?",
+        "options": [
+            "Magnetism",
+            "Gravity",
+            "Friction",
+            "Inertia"
+        ],
+        "correct": 1,
+        "subject": "Science"
+    },
+    {
+        "question": "Boiling point of water?",
+        "options": [
+            "50°C",
+            "100°C",
+            "150°C",
+            "200°C"
+        ],
+        "correct": 1,
+        "subject": "Science"
+    },
+    {
+        "question": "Which blood type is universal donor?",
+        "options": [
+            "O-",
+            "A+",
+            "B+",
+            "AB+"
+        ],
+        "correct": 0,
+        "subject": "Science"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correct": 1,
+        "subject": "Science"
+    }
+]
