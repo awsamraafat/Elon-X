@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Question Bank Shuffle</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="wrap">
+    <h1>نظام اختبارات بسيط — Question Bank Shuffle</h1>
+    <nav id="userArea" class="hide">
+      <span id="welcome"></span>
+      <button id="logoutBtn">تسجيل الخروج</button>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <!-- Auth -->
+    <section id="authSection">
+      <div class="card">
+        <h2>تسجيل حساب جديد</h2>
+        <label>الاسم</label>
+        <input id="name" type="text" placeholder="الاسم بالكامل" required>
+
+        <label>الإيميل</label>
+        <input id="signupEmail" type="email" placeholder="example@email.com" required>
+
+        <label>كلمة السر</label>
+        <input id="signupPassword" type="password" placeholder="••••••••" required>
+
+        <div class="grid2">
+          <div>
+            <label>السن</label>
+            <input id="age" type="number" min="5" max="100" placeholder="العمر">
+          </div>
+          <div>
+            <label>السنة الدراسية</label>
+            <select id="grade">
+              <option value="">اختـر السنة</option>
+              <option>أولى ابتدائي</option>
+              <option>ثانية ابتدائي</option>
+              <option>ثالثة ابتدائي</option>
+              <option>رابعة ابتدائي</option>
+              <option>خامسة ابتدائي</option>
+              <option>سادسة ابتدائي</option>
+              <option>أولى إعدادي</option>
+              <option>ثانية إعدادي</option>
+              <option>ثالثة إعدادي</option>
+              <option>أولى ثانوي</option>
+              <option>ثانية ثانوي</option>
+              <option>ثالثة ثانوي</option>
+              <option>جامعي</option>
+            </select>
+          </div>
+        </div>
+
+        <button id="signupBtn">تسجيل جديد</button>
+      </div>
+
+      <div class="card">
+        <h2>تسجيل الدخول</h2>
+        <label>الإيميل</label>
+        <input id="loginEmail" type="email" placeholder="example@email.com" required>
+        <label>كلمة السر</label>
+        <input id="loginPassword" type="password" placeholder="••••••••" required>
+        <button id="loginBtn">دخول</button>
+      </div>
+    </section>
+
+    <!-- Quiz -->
+    <section id="quizSection" class="hide">
+      <div class="card">
+        <h2>الامتحان</h2>
+        <p class="muted">يتم سحب الأسئلة عشوائيًا من بنك الأسئلة.</p>
+        <div id="progress">
+          <span id="progressText">السؤال <b id="currentIdx">0</b> من <b id="totalQ">0</b></span>
+          <span>✅ صح: <b id="correctCount">0</b> | ❌ غلط: <b id="wrongCount">0</b> | ⏳ الباقي: <b id="remainingCount">0</b></span>
+        </div>
+        <div id="dots"></div>
+        <div id="qArea">
+          <div id="question"></div>
+          <div id="options"></div>
+        </div>
+        <div class="actions">
+          <button id="prevBtn" class="secondary">السابق</button>
+          <button id="nextBtn">التالي</button>
+          <button id="finishBtn" class="danger">إنهاء</button>
+        </div>
+      </div>
+
+      <div id="resultCard" class="card hide">
+        <h2>النتيجة</h2>
+        <p>درجتك: <b id="scoreText"></b></p>
+        <div id="review"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap">
+    <small>مبني بـ Google Sheets + Apps Script + Firebase — مجانًا</small>
+  </footer>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
