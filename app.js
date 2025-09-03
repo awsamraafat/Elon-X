@@ -29,7 +29,7 @@ const firebaseConfig = {
 };
 
 // Google Apps Script web app endpoint (ends with /exec)
-const SHEET_API_URL = "https://script.google.com/macros/s/AKfycbz1fRnzEKhezzSJUJ6D1D87zLRX9APtRpNbaOIDbl10mYQhVJAUI5BvlKIznMqqbnTUug/exec"; // <-- replace
+const SHEET_API_URL = "https://script.google.com/macros/s/AKfycbxP-e1sOBGXxwuHyhW6PmjTdYGeDUWgWKleXITpcJKGsLS4GPv4IwJ-Y61HPP_p3nXi9w/exec"; // <-- replace
 
 // How many questions to pick (null or 0 = use all)
 const QUESTIONS_LIMIT = 0; // e.g., set to 20 to pick 20 random questions
